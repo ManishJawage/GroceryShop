@@ -1,7 +1,4 @@
-/*
- * 
- * @Author: Simran
- */
+
 package com.cg.model;
 
 import javax.persistence.Column;
